@@ -22,7 +22,7 @@ The concept of Community Driven, project entrusted to the community, is aim to b
 
  
 
-The protocol is designed with a fee of 10% on sales, which is distributed for 2% to the current holders, the remaining 2% is converted into BNB and goes partially to implement LP liquidity on Pancake Swap. In practice, the system rewards token holders.
+The protocol is designed with a fee of 4% on sales, which is distributed for 2% to the current holders, the remaining 2% is converted into BNB and goes partially to implement LP liquidity on Pancake Swap. In practice, the system rewards token holders.
 
 
 This is the strategy to get safely to bring the Spritz to the Moon, which inspired the name SpritzMoon.
