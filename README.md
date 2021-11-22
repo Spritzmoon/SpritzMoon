@@ -2,19 +2,15 @@ The SpritzMoon Crypto Token (SPRITZMOON) project, totally made in Italy, is a Co
 
  
 
-During each exchange, 3 simple functions are realized:
+During each exchange, 2 simple functions are realized:
 
  
 
-1) Recogniton of a fixed income (Reflection) 5%
+1) Recogniton of a fixed income (Reflection) 2%
 
  
 
-2) Liquidity Provider, LP Acquisition 5%
-
- 
-
-3) Token Burn 5%
+2) Liquidity Provider, LP Acquisition 2%
 
  
 
@@ -26,7 +22,7 @@ The concept of Community Driven, project entrusted to the community, is aim to b
 
  
 
-The protocol is designed with a fee of 10% on sales, which is distributed for 5% to the current holders, the remaining 5% is converted into BNB and goes partially to implement LP liquidity on Pancake Swap. In practice, the system rewards token holders.
+The protocol is designed with a fee of 10% on sales, which is distributed for 2% to the current holders, the remaining 2% is converted into BNB and goes partially to implement LP liquidity on Pancake Swap. In practice, the system rewards token holders.
 
 
 This is the strategy to get safely to bring the Spritz to the Moon, which inspired the name SpritzMoon.
@@ -41,7 +37,7 @@ SpritzMoon's goal is triple, simple and within reach of all:
 2) Sociality, specifically helping the various associations related to the Spritz theme, to prevent any kind of excess
 
 
-3) Allow all community members to use the token as a "Payment Tool" for Weekend Spritz with Friends
+3) Allow all community members to use the token as a "Utility Token" for Weekend Spritz with Friends
 
  
 
