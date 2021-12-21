@@ -1,4 +1,4 @@
-The SpritzMoon Crypto Token (spritzmoon) project, totally made in Italy, is a Community-led driven and fairly launched Crypto Token DeFi.
+The SpritzMoon Crypto Token (spritzmoon), totally made in Italy, is a Crypto DeFi developed on Binance BlockChain (BSC).
 
  
 
