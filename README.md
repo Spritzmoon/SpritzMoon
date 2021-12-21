@@ -1,4 +1,4 @@
-The SpritzMoon Token (SPRZ) project, totally made in Italy, is a Community-led driven and fairly launched Crypto Token DeFi.
+The SpritzMoon Crypto Token (spritzmoon) project, totally made in Italy, is a Community-led driven and fairly launched Crypto Token DeFi.
 
  
 
@@ -14,7 +14,7 @@ During each exchange, 2 simple functions are realized:
 
  
 
-It's inizially quoted on PancakeSwap as the token  is based on Binance Smart Chain (BSC). Now SpritzMoon is quoted on Exchange and we esk from Pancake because is not secure for our Holders.
+It's inizially quoted on PancakeSwap as the token  is based on Binance Smart Chain (BSC). Now SpritzMoon is quoted on Exchange and we esc from Pancake because is not secure for our Holders, so the LP acquisition is not operative on Exchange.
 
  
 
