@@ -1,4 +1,4 @@
-The SpritzMoon Crypto, totally made in Italy, is a Crypto DeFi developed on Binance BlockChain (BSC).
+The SpritzMoon Crypto, totally made in Italy, is a Crypto you Can Mine Directly from Your Smartphone.
 
 SpritzMoon Crypto, want  develop 3 goals:
 
